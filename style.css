@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+#Countlabel {
+    font-size: 50px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+button {
+    font-size: 13px;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+#increaseBtn:hover{
+    background-color:#3498db;
+    color: white;
+    border: 1px solid #e74c3c;
+    border-radius: 4px;
+}
+
+#resetBtn:hover {
+    background-color: blue;
+    color: white;
+    border: 1px solid pink;
+    border-radius: 4px;
+}
+
+#decreaseBtn:hover {
+    background-color: red;
+    color: white;
+    border: 1px solid pink;
+    border-radius: 4px;
+}
+
